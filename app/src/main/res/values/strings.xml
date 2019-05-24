@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Monthly Investment Calculator</string>
+    <string name="txtTitle">Calculate Monthly Deposit for Investment</string>
+    <string name="hintName">Enter Investment Name/Purpose</string>
+    <string name="hintGoal">Enter Final Investment Goal</string>
+    <string name="hintInterest">Enter Interest Rate</string>
+    <string name="hintDefault">Enter Default Interest Rate</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="btnSee">Find Interest Rates</string>
+    <string name="btnDate">Pick the Last Day for Deposit</string>
+    <string name="btnDefault">Change</string>
+    <string name="txtInterestQ">Do you want to enter your own interest rate?</string>
+    <string name="txtYes">Yes</string>
+    <string name="txtNo">No</string>
+    <string name="txtChart">Your Pie Chart</string>
+    <string name="imgMoney">Money Image</string>
+    <string name="title_item_detail"></string>
+</resources>
